@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-lovely
-=======
-love
->>>>>>> 71852dd (Update hello.txt to say love)
